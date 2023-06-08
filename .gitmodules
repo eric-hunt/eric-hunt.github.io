@@ -1,0 +1,4 @@
+[submodule "JuliaLearning"]
+	path = JuliaLearning
+	url = https://github.com/eric-hunt/JuliaLearning
+	branch = html_render
